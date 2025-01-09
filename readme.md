@@ -11,6 +11,12 @@ This repository contains a PowerShell 7 script and helper files to help you auto
   
   If you don't have it installed, the script will guide you how to do so.
 
+## How to use
+
+Clone or download a copy of the repository. Mind the included binary files - they are the web installers of Visual Studio 2022 and SQL Server 2022 Express. The files are digitally signed by Microsoft but you can always download fresh copies from microsoft.com and replace the provided ones.
+
+Then, run `Install-Sitefinity.ps1`.
+
 ## License
 
 Copyright © 2025 - Present Progress Software Corporation and/or one of its subsidiaries or affiliates. All rights reserved.
